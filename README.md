@@ -75,6 +75,3 @@ Trained multiple machine learning models:
 ## Conclusion  
 Machine learning enables businesses to predict customer churn with high accuracy. By implementing targeted retention strategies, companies can reduce attrition and improve customer loyalty.  
 
----
-
-Let me know if you need any modifications! 🚀
